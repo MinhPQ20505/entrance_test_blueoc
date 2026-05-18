@@ -27,6 +27,7 @@ A simple React-Redux application that fetches and displays posts from an API and
 
 ## Project Structure
 
+```
 project-root/
 │
 ├── public/
@@ -72,6 +73,7 @@ project-root/
 ├── package.json
 ├── README.md
 └── .gitignore
+```
 
 ---
 
